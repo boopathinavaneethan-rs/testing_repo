@@ -1,0 +1,10 @@
+{
+    "id": "sdk-qa-batch-app",
+    "description": "Test app for batch SDK automation",
+    "sdkDependencies": {
+        "analyticsSDK": "2.0.0"
+    },
+    "build_properties": {
+        "python_version": "3.9"
+    }
+}
